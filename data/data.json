@@ -1,0 +1,44 @@
+[
+	{
+	  "id": 1,
+	  "title": "Монітор 23.8\" Philips",
+	  "img": "/img/products/Phillips.webp",
+	  "price": 12550
+	},
+	{
+	  "id": 2,
+	  "title": "Ноутбук ASUS TUF Dash F15",
+	  "img": "/img/products/AserLaptop.webp",
+	  "price": 39999
+	},
+	{
+	  "id": 3,
+	  "title": "Мобільний телефон Apple iPhone 14 Pro",
+	  "img": "/img/products/iphone.webp",
+	  "price": 51900
+	},
+	{
+	  "id": 4,
+	  "title": "Робот-пилосос Xiaomi Dreame D10",
+	  "img": "/img/products/XiaomiRobot.webp",
+	  "price": 2500
+	},
+	{
+	  "id": 5,
+	  "title": "Пральна машина вузька AEG L6",
+	  "img": "/img/products/aeg.webp",
+	  "price": 18800
+	},
+	{
+	  "id": 6,
+	  "title": "Навушники Samsung Galaxy Buds2 Pro",
+	  "img": "/img/products/samsung.webp",
+	  "price": 6900
+	},
+	{
+	  "id": 7,
+	  "title": "Huawey watch 5",
+	  "img": "/img/products/watch.webp",
+	  "price": 7600
+	}
+ ]
