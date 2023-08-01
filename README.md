@@ -9,6 +9,7 @@ In this project you can:
   - Change the quantity of items
 
 Items received from JSON
+
 Data is stored in localstorage
 
 
